@@ -1,1 +1,2 @@
 # projeto-integrador-frontend-Vin-cius-Albuquerque-Borba-de-Andrade
+Esse projeto é uma homenagem ao console "Playstation 2" que marcou toda uma geração , com uma biblioteca jamais vista em qualquer outro console. Basicamente você encontrará aqui todas as Roms dos jogos , assim como arquivos para bios e curiosidades também como a história das versões desse incrível console. É uma página criada por um fã do que teve sua vida moldada por longos anos com esse console.
